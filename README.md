@@ -1,6 +1,6 @@
 # ScaleX | Sheryians Cohort 3.0
 
- 📝 **ScaleX ➖Growth & Tech Insights **| Where the world’s most innovative thinkers share the future of SaaS, Tech, and Marketing 📝
+ 📝 **ScaleX** ➖**Growth & Tech Insights** | Where the world’s most innovative thinkers share the future of SaaS, Tech, and Marketing 📝
 
 Welcome to my design assignment for the  **Sheryians Coding School Cohort 3.0** .
 
